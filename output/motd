@@ -1,0 +1,34 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!    Cannon    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Welcome to Cannon, a HPC resource for the research community,
+hosted by Research Computing at HU's Faculty of Arts and Sciences.
+
++--------------- Helpful Documentation: -----------------+
+| https://rc.fas.harvard.edu/resources/quickstart-guide/ |
+| https://rc.fas.harvard.edu/running-jobs/               |
+| https://rc.fas.harvard.edu/convenient-slurm-commands/  |
++--------------------------------------------------------+
+
++------------------- NEWS & UPDATES: ----------------------------------------------------+
++ OFFICE HOURS: Wednesdays noon-3pm, 38 Oxford, ROOM 100 (1st Flooor conf room)          +
++ Check our consulting calendar at: https://www.rc.fas.harvard.edu/consulting-calendar/  +
++ Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
++----------------------------------------------------------------------------------------+
+
+NEXT MAINTENANCE: JANUARY 13TH 7AM-11AM
+
+https://www.rc.fas.harvard.edu/maintenance
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+SCRATCHLFS02: An early Christmas present for you!  scratchlfs02 is now online and ready
+for use.  Please move your scratch use to scratchlfs02.  scratchlfs and scratchssdlfs 
+will be set to read only on January 13th,  and will be turned off February 3rd.  If you 
+used scratchlfs04 your  data has been moved to scratchlfs02, please repoint your scripts.
+
+HAPPY HOLIDAYS!: Cluster resources and storage will be available as per normal during the
+break. However, RC staff will be on break from December 24th - January 1st. As such
+all non-urgent work requests that come in during the break will be deferred. Also
+requests that come in immediately before break may be deferred.  See you in the new year!
+
+
