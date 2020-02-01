@@ -19,3 +19,8 @@ Disk quotas for grp kuang_lab (gid 34720):
 /n/scratchlfs02  27.47T     50T     50T       -  139446  104857600 104857600       -
 /n/scratchlfs02  27.47T     50T     50T       -  139446  104857600 104857600       -
      /n/holylfs  332.4T    375T    375T       - 4056534       0       0       -
+   /n/holylfs02  1.777M      0k      0k       -      24       0       0       -
+      /n/boslfs    416T*     1T      1T       - 10292726* 1048576 1048576       -
+Disk quotas for grp huce (gid 10047):
+     Filesystem    used   quota   limit   grace   files   quota   limit   grace
+     /n/holylfs  430.8G    500G    500G       -   13996       0       0       -
