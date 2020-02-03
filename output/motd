@@ -16,13 +16,22 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: FEBRUARY 3RD 7AM-11AM
+NEXT MAINTENANCE: MARCH 2ND 7AM-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-SCRATCHLFS02: scratchlfs02 is now online and ready for use.  Please move your scratch
-use to scratchlfs02.  scratchlfs and scratchssdlfs are set to read only and will be 
-turned off February 3rd.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!
+HOLYSCRATCH01: Due to instability with scratchlfs02 we will be
+replace it with holyscratch01.  Please move to holyscratch01
+ASAP.  We will be unmounting scratchlfs02 from the cluster
+at our March maintenance.  If you need assistance moving
+please contact us.
+
+HOLYLFS/BOSLFS: Both of these systems are slated to be
+retired this year as the cluster has outgrown their
+capabilities.  Please only use holylfs/boslfs for
+long term storage and use holyscratch01 for production work.
+We will be in contact with labs when we are ready to move
+labs on these systems to new storage.
 
 
