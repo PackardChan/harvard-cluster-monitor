@@ -28,7 +28,7 @@ at our March maintenance.  If you need assistance moving
 please contact us.
 
 HOLYLFS/BOSLFS: Both of these systems are slated to be
-retired this year as the cluster has outgrown their
+replaced this year as the cluster has outgrown their
 capabilities.  Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
