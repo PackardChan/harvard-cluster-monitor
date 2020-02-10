@@ -1,22 +1,27 @@
-File                       Size  Used Avail Use% Type     Drawbacks
-/n/home05/pchan            866T  825T   26T  98% nfs      100G per user
-/n/scratchlfs02/kuang_lab  2.4P  1.1P  1.2P  49% lustre   group readable, 50T per group, 90 day retention
-/n/kuang_lab                20T   11T  9.6T  53% nfs      unstable, group readable, 50T per group, 90 day retention
-/n/holylfs/LABS/kuang_lab  4.1P  3.7P  273T  94% lustre   
-/n/holylfs02/TRANSFER      4.9P  4.0P  606T  88% lustre   old, group readable, 375T for kuang_lab, 1T otherwise
-/n/boslfs/TRANSFER         4.1P  3.7P  246T  94% lustre   Don't use as permanent storage
-/n/kuanglfs                110T   80T   25T  77% lustre   old, Don't use as permanent storage
-/n/kuangdss01/users        524T  456T   69T  88% nfs      old, for kuang_lab
-/n/data_kzm                3.0T  2.6T  473G  85% nfs      group readable, for kuang_lab
-/n/data2_kzm                13T   12T  2.0T  85% nfs      for kuang_lab
-/n/data3_kzm               8.0T  6.8T  1.3T  84% nfs      for kuang_lab
+File                        Size  Used Avail Use% Type    Drawbacks
+/n/home05/pchan             866T  825T   25T  98% nfs     100G per user
+/n/holyscratch01/kuang_lab  4.0P 1016T  2.8P  27% lustre  group readable, 50T per group, 90 day retention
+/n/scratchlfs02/kuang_lab   2.4P  1.1P  1.2P  49% lustre  unstable, group readable, 50T per group, 90 day retention
+/n/kuang_lab                 20T   11T  9.6T  53% nfs     
+/n/holylfs/LABS/kuang_lab   4.1P  3.7P  272T  94% lustre  old, group readable, 375T for kuang_lab, 1T otherwise
+/n/holylfs02/TRANSFER       4.9P  4.0P  606T  88% lustre  Don't use as permanent storage
+/n/boslfs/TRANSFER          4.1P  3.7P  245T  94% lustre  old, Don't use as permanent storage
+/n/kuanglfs                 110T   80T   25T  77% lustre  old, for kuang_lab
+/n/kuangdss01/users         524T  456T   68T  88% nfs     group readable, for kuang_lab
+/n/data_kzm                 3.0T  2.6T  473G  85% nfs     for kuang_lab
+/n/data2_kzm                 13T   12T  2.0T  85% nfs     for kuang_lab
+/n/data3_kzm                8.0T  6.8T  1.3T  84% nfs     for kuang_lab
 Disk quotas for user pchan (uid 556272): 
      Filesystem   space   quota   limit   grace   files   quota   limit   grace
       /n/home05  23187M  97280M    100G            406k    200m    210m        
+Disk quotas for grp kuang_lab (gid 34720):
+     Filesystem    used   quota   limit   grace   files   quota   limit   grace
+/n/holyscratch01
+                 36.24G     50T     50T       -    1023  104857600 104857600       -
 /n/scratchlfs02  27.47T     50T     50T       -  139464  104857600 104857600       -
-     /n/holylfs  343.4T    375T    375T       - 4136415       0       0       -
+     /n/holylfs  338.5T    375T    375T       - 4047532       0       0       -
    /n/holylfs02  1.777M      0k      0k       -      24       0       0       -
       /n/boslfs    416T*     1T      1T       - 10292726* 1048576 1048576       -
 Disk quotas for grp huce (gid 10047):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
-     /n/holylfs  430.9G    500G    500G       -   13999       0       0       -
+     /n/holylfs  430.9G    500G    500G       -   13996       0       0       -
