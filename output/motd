@@ -16,16 +16,9 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: MARCH 2ND 7AM-11AM
+NEXT MAINTENANCE: APRIL 6TH 7AM-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!IMPORTANT!!!!!!!!!!!!!!!!!!!!!!
-HOLYSCRATCH01: Due to instability with scratchlfs02 we will be
-replace it with holyscratch01.  Please move to holyscratch01
-ASAP.  We will be unmounting scratchlfs02 from the cluster
-at our March maintenance.  If you need assistance moving
-please contact us.
 
 HOLYLFS/BOSLFS: Both of these systems are slated to be
 replaced this year as the cluster has outgrown their
