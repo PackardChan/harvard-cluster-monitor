@@ -11,7 +11,7 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 +--------------------------------------------------------+
 
 +------------------- NEWS & UPDATES: ----------------------------------------------------+
-+ OFFICE HOURS: Wednesdays noon-3pm, 38 Oxford, ROOM 100 (1st Flooor conf room)          +
++ OFFICE HOURS: Wednesdays noon-3pm, see website for details                             +
 + Check our consulting calendar at: https://www.rc.fas.harvard.edu/consulting-calendar/  +
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
@@ -20,11 +20,21 @@ NEXT MAINTENANCE: APRIL 6TH 7AM-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
 
+OUT OF OFFICE: FASRC will be working remotely until 
+further notice. Office hours will be held virtually 
+Wednesdays from 12-3. See https://www.rc.fas.harvard.edu/
+(and training->office hours) for more details.
+
 HOLYLFS/BOSLFS: Both of these systems are slated to be
 replaced this year as the cluster has outgrown their
 capabilities.  Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
 labs on these systems to new storage.
+
+HOLYOKE DOWNTIME: Our yearly power work at MGHPCC is
+currently slated for the first week of June.  Please
+plan accordingly.  More specific details will be sent
+out in the coming months.
 
 
