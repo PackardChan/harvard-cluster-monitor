@@ -1,7 +1,7 @@
 
 !!!!!!!!!!!!!!!!!!!!!!!!!    Cannon    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Welcome to Cannon, a HPC resource for the research community,
+Welcome to Cannon, an HPC resource for the research community,
 hosted by Research Computing at HU's Faculty of Arts and Sciences.
 
 +--------------- Helpful Documentation: -----------------+
@@ -20,21 +20,19 @@ NEXT MAINTENANCE: APRIL 6TH 7AM-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
 
-OUT OF OFFICE: FASRC will be working remotely until 
-further notice. Office hours will be held virtually 
-Wednesdays from 12-3. See https://www.rc.fas.harvard.edu/
-(and training->office hours) for more details.
+OFFICE HOURS: Office hours will be held Wednesdays from 12-3 via Zoom.
+See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
 
 HOLYLFS/BOSLFS: Both of these systems are slated to be
 replaced this year as the cluster has outgrown their
-capabilities.  Please only use holylfs/boslfs for
+capabilities. Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
 labs on these systems to new storage.
 
 HOLYOKE DOWNTIME: Our yearly power work at MGHPCC is
-currently slated for the first week of June.  Please
-plan accordingly.  More specific details will be sent
+currently slated for the first week of June. Please
+plan accordingly. More specific details will be sent
 out in the coming months.
 
 
