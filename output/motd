@@ -4,11 +4,11 @@
 Welcome to Cannon, an HPC resource for the research community,
 hosted by Research Computing at HU's Faculty of Arts and Sciences.
 
-+--------------- Helpful Documentation: -----------------+
-| https://rc.fas.harvard.edu/resources/quickstart-guide/ |
-| https://rc.fas.harvard.edu/running-jobs/               |
-| https://rc.fas.harvard.edu/convenient-slurm-commands/  |
-+--------------------------------------------------------+
++------------------- Helpful Documentation: --------------------+
+| https://docs.rc.fas.harvard.edu/kb/quickstart-guide/          |
+| https://docs.rc.fas.harvard.edu/kb/running-jobs/              |
+| https://docs.rc.fas.harvard.edu/kb/convenient-slurm-commands/ |
++---------------------------------------------------------------+
 
 +------------------- NEWS & UPDATES: ----------------------------------------------------+
 + OFFICE HOURS: Wednesdays noon-3pm, see website for details                             +
