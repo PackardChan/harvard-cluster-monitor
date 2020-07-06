@@ -16,12 +16,23 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: JULY 6TH 7AM-11AM
+NEXT MAINTENANCE: JULY 20TH 5AM-8PM
 
 https://www.rc.fas.harvard.edu/maintenance
 
 OFFICE HOURS: Office hours will be held Wednesdays from 12-3 via Zoom.
 See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
+
+!!!!!!!!!!!!!!!!IMPORTANT PLEASE READ!!!!!!!!!!!!!!!!!!!!!!!
+HOME DIRECTORY MOVE: As part of our work to consolidate
+space in our datacenters we are physically moving
+the Isilon that hosts the home directories to a new
+rack.  This move will take place on July 20th and take 
+all day to accomplish. It will require a full outage of
+the cluster and login nodes.  All running jobs will be 
+cancelled. Please plan accordingly.  For more detals see:
+
+https://www.rc.fas.harvard.edu/rsvpmaker/home-directory-move-july-2020/
 
 HOLYLFS/BOSLFS: Both of these systems are slated to be
 replaced this year as the cluster has outgrown their
@@ -30,7 +41,15 @@ long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
 labs on these systems to new storage.
 
-HOLYOKE POWER MAINTENANCE: Has been moved to October. Further
+HOLYOKE POWER MAINTENANCE: Has been moved to October 19-21. Further
 details will be forthcoming later in the summer.
+
+SLURM JOBID ROLLOVER: Slurm has a max JobID of 67043328 which
+we are fast approaching.  When we hit that the JobID will roll
+over back to 1. This has happened before and is no cause for alarm,
+as it should have zero impact for scheduling.  User scripts 
+that assume an ascending JobID should be aware of this though and 
+plan accordingly. We estimate based on current usage that we will
+hit rollover in mid-August.
 
 
