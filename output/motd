@@ -16,23 +16,12 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: JULY 20TH 5AM-8PM
+NEXT MAINTENANCE: SEPTEMBER 14TH 7-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
 
 OFFICE HOURS: Office hours will be held Wednesdays from 12-3 via Zoom.
 See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
-
-!!!!!!!!!!!!!!!!IMPORTANT PLEASE READ!!!!!!!!!!!!!!!!!!!!!!!
-HOME DIRECTORY MOVE: As part of our work to consolidate
-space in our datacenters we are physically moving
-the Isilon that hosts the home directories to a new
-rack.  This move will take place on July 20th and take 
-all day to accomplish. It will require a full outage of
-the cluster and login nodes.  All running jobs will be 
-cancelled. Please plan accordingly.  For more detals see:
-
-https://www.rc.fas.harvard.edu/rsvpmaker/home-directory-move-july-2020/
 
 HOLYLFS/BOSLFS: Both of these systems are slated to be
 replaced this year as the cluster has outgrown their
