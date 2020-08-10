@@ -1,29 +1,29 @@
 File                        Size  Used Avail Use% Type    Drawbacks
-/n/home05/pchan              95G   24G   72G  25% nfs     100G per user
-/n/holyscratch01/kuang_lab  4.0P  1.9P  1.9P  50% lustre  group readable, 50T per group, 90 day retention
+/n/home05/pchan              95G   25G   71G  26% nfs     100G per user
+/n/holyscratch01/kuang_lab  4.0P  2.0P  1.8P  53% lustre  group readable, 50T per group, 90 day retention
 /n/kuang_lab                 20T   11T  9.6T  53% nfs     
-/n/holylfs/LABS/kuang_lab   0.0K  0.0K  0.0K    - lustre  old, group readable, 375T for kuang_lab, 1T otherwise
-/n/holylfs02/TRANSFER       0.0K  0.0K  0.0K    - lustre  Dont use as permanent storage
-/n/boslfs02/TRANSFER        5.3P  1.9P  3.3P  36% lustre  Dont use as permanent storage
-/n/boslfs/TRANSFER          4.1P  3.2P  737T  82% lustre  old, Dont use as permanent storage
+/n/holylfs/LABS/kuang_lab   4.1P  3.2P  723T  82% lustre  old, group readable, 375T for kuang_lab, 1T otherwise
+/n/holylfs02/TRANSFER       4.9P  3.8P  842T  83% lustre  Dont use as permanent storage
+/n/boslfs02/TRANSFER        5.3P  1.9P  3.2P  38% lustre  Dont use as permanent storage
+/n/boslfs/TRANSFER          4.1P  3.2P  735T  82% lustre  old, Dont use as permanent storage
 /n/kuanglfs                 110T   90T   14T  87% lustre  old, for kuang_lab
-/n/kuangdss01/users         524T  515T  9.9T  99% nfs     group readable, for kuang_lab
+/n/kuangdss01/users         524T  515T  9.5T  99% nfs     group readable, for kuang_lab
 /n/data_kzm                 3.0T  2.6T  473G  85% nfs     for kuang_lab
 /n/data2_kzm                 13T   12T  2.0T  85% nfs     for kuang_lab
 /n/data3_kzm                8.0T  6.2T  1.9T  77% nfs     for kuang_lab
 Disk quotas for user pchan (uid 556272): 
      Filesystem   space   quota   limit   grace   files   quota   limit   grace
-      /n/home05  24243M  97280M    100G            430k    200m    210m        
+      /n/home05  25218M  97280M    100G            432k    200m    210m        
 Disk quotas for grp kuang_lab (gid 34720):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
 /n/holyscratch01
-                 39.82T     50T     50T       -  407151  104857600 104857600       -
-     /n/holylfs    373T    375T    375T       - 4045780       0       0       -
+                 43.91T     50T     50T       -  502282  104857600 104857600       -
+     /n/holylfs  361.3T    375T    375T       - 4030008       0       0       -
    /n/holylfs02  1.797M      0k      0k       -      29       0       0       -
     /n/boslfs02      0k      0k      0k       -       0       0       0       -
 gid 34720 is using default block quota setting
 gid 34720 is using default file quota setting
-      /n/boslfs    249T*     1T      1T       - 10303670* 1048576 1048576       -
+      /n/boslfs    249T*     1T      1T       - 10448802* 1048576 1048576       -
 Disk quotas for grp huce (gid 10047):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
- /n/holystore01  454.8G      1T      1T       -   55947  1048576       0       -
+ /n/holystore01  455.2G      1T      1T       -   55967  1048576       0       -
