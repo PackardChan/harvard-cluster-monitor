@@ -1,0 +1,4 @@
+script/disk-ost-check.sh: line 45: 233790 Killed                  timeout -s 9 2s cp ${ii} /dev/null
+/n/holylfs04 12 -137
+script/disk-ost-check.sh: line 45: 233865 Killed                  timeout -s 9 2s cp ${ii} /dev/null
+/n/holylfs04 4 -137
