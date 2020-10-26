@@ -1,6 +1,6 @@
 File                                          Size  Used Avail Use% Type    Drawbacks
-/n/home05/pchan                                95G   25G   71G  26% nfs     100G per user
-/n/holyscratch01/kuang_lab                    4.0P  1.7P  2.2P  44% lustre  group readable, 50T per group, 90 day retention
+/n/home05/pchan                                95G   25G   71G  27% nfs     100G per user
+/n/holyscratch01/kuang_lab                    4.0P  1.7P  2.1P  45% lustre  group readable, 50T per group, 90 day retention
 /n/kuang_lab                                   20T   11T  9.6T  53% nfs      
 /n/holylfs04/LABS/kuang_lab/Users             4.8P  2.1P  2.7P  44% lustre  500T for kuang_lab
 /n/kuangdss01/users                           524T  490T   35T  94% nfs     group readable, for kuang_lab
@@ -11,8 +11,8 @@ File                                          Size  Used Avail Use% Type    Draw
 Disk quotas for grp kuang_lab (gid 34720):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
 /n/holyscratch01
-                 38.15T     50T     50T       -  863963  104857600 104857600       -
-   /n/holylfs04  473.1T    500T    500T       - 173509045  285212672 285212672       -
+                 38.29T     50T     50T       -  910086  104857600 104857600       -
+   /n/holylfs04    472T    500T    500T       - 173503973  285212672 285212672       -
 Disk quotas for grp huce (gid 10047):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
  /n/holystore01  504.1G      1T      1T       -   56240  1048576       0       -
