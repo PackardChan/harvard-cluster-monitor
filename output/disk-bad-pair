@@ -1,5 +1,5 @@
-boslogin02 /n/holylfs -137 4494822763264
-boslogin01 /n/holylfs -137 4494822763264
+ost /n/holylfs 0 10 12 14 16 18 2 20 4 6 8 88
+holylogin03 /n/holylfs02 -137 5294242366752
 datamover01 /n/kuang_lab -1 22546491392
 datamover01 /n/holylfs04 52403200 5214334382144
 datamover01 /n/data_kzm -1 3221225472
