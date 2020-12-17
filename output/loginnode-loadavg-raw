@@ -1,8 +1,8 @@
-boslogin01 2020-12-07 09:19:08 load average 1, 5, 15 min: 1.46 1.64 1.43 2/858 114786
-boslogin02 2020-12-14 15:07:12 load average 1, 5, 15 min: 1.32 1.18 1.22 1/1080 69150
-boslogin03 2020-12-07 09:19:01 load average 1, 5, 15 min: 2.00 1.81 1.26 1/957 227856
-boslogin04 2020-12-07 09:20:10 load average 1, 5, 15 min: 1.20 1.20 0.91 3/906 57030
-holylogin01 2020-12-07 09:18:36 load average 1, 5, 15 min: 1.70 1.96 1.89 2/839 8430
-holylogin02 2020-12-07 09:18:38 load average 1, 5, 15 min: 0.23 0.55 0.46 1/859 16550
-holylogin03 2020-12-07 09:18:42 load average 1, 5, 15 min: 0.41 0.12 0.08 2/760 163156
-holylogin04 2020-12-07 09:18:47 load average 1, 5, 15 min: 1.27 1.13 1.06 1/837 236584
+boslogin01 2020-12-07 09:19:08 load average 1, 5, 15 min: 3.19 3.19 2.99 2/892 126106
+boslogin02 2020-12-14 15:07:12 load average 1, 5, 15 min: 1.50 1.91 2.25 2/1123 98909
+boslogin03 2020-12-07 09:19:01 load average 1, 5, 15 min: 2.48 2.28 1.84 3/988 244503
+boslogin04 2020-12-07 09:20:10 load average 1, 5, 15 min: 0.12 0.15 0.21 2/886 188557
+holylogin01 2020-12-07 09:18:36 load average 1, 5, 15 min: 2.67 3.09 3.17 4/888 18929
+holylogin02 2020-12-07 09:18:38 load average 1, 5, 15 min: 0.50 0.56 0.63 3/881 30213
+holylogin03 2020-12-07 09:18:42 load average 1, 5, 15 min: 0.04 0.04 0.08 4/827 172529
+holylogin04 2020-12-07 09:18:47 load average 1, 5, 15 min: 3.05 3.12 3.02 3/851 244904
