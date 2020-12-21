@@ -1,18 +1,18 @@
 File                                          Size  Used Avail Use% Type    Drawbacks
 /n/home05/pchan                                95G   27G   69G  28% nfs     100G per user
-/n/holyscratch01/kuang_lab                    4.0P  1.9P  2.0P  49% lustre  group readable, 50T per group, 90 day retention
+/n/holyscratch01/kuang_lab                    4.0P  1.8P  2.1P  46% lustre  group readable, 50T per group, 90 day retention
 /n/kuang_lab                                   21T   11T   11T  50% nfs      
-/n/holylfs04/LABS/kuang_lab/Users             4.8P  2.9P  1.9P  61% lustre  500T for kuang_lab
-/n/kuangdss01/users                           524T  515T  9.1T  99% nfs     group readable, for kuang_lab
+/n/holylfs04/LABS/kuang_lab/Users             4.8P  2.9P  1.9P  62% lustre  500T for kuang_lab
+/n/kuangdss01/users                           524T  490T   35T  94% nfs     group readable, for kuang_lab
 /n/data_kzm                                   3.0T  2.6T  473G  85% nfs     for kuang_lab
 /n/data2_kzm                                   13T   12T  2.0T  85% nfs     for kuang_lab
 /n/data3_kzm                                  8.0T  5.3T  2.8T  66% nfs     for kuang_lab
-/n/holystore01/INTERNAL_REPOS/CLIMATE_MODELS  5.3P  2.8P  2.4P  55% lustre  group readable, 1T for sharing within huce
+/n/holystore01/INTERNAL_REPOS/CLIMATE_MODELS  5.3P  2.7P  2.4P  54% lustre  group readable, 1T for sharing within huce
 Disk quotas for grp kuang_lab (gid 34720):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
 /n/holyscratch01
-                 46.46T     50T     50T       - 1102343  104857600 104857600       -
-   /n/holylfs04  491.3T    500T    500T       - 174389855  285212672 285212672       -
+                 44.85T     50T     50T       -  747311  104857600 104857600       -
+   /n/holylfs04  497.5T    500T    500T       - 175178713  285212672 285212672       -
 Disk quotas for grp huce (gid 10047):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
- /n/holystore01  537.1G      1T      1T       -   56644  1048576       0       -
+ /n/holystore01  537.1G      1T      1T       -   56643  1048576       0       -
