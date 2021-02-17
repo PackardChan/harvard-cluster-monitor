@@ -23,6 +23,12 @@ https://www.rc.fas.harvard.edu/maintenance
 OFFICE HOURS: Are held on Zoom from 12-3PM on Wednesdays.
 See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
 
+INTERACTIVE: Please use salloc instead of srun for interactive
+sessions.  The structure of the salloc command is slightly different.
+See our updated docs for details of how to use salloc:
+
+https://docs.rc.fas.harvard.edu/kb/running-jobs/#Interactive_jobs_and_salloc
+
 HOLYLFS/BOSLFS: Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
