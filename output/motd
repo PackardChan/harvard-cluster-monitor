@@ -16,22 +16,20 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: APRIL 5TH 7AM-11AM
+NEXT MAINTENANCE: MAY 3RD 7AM-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
 
 OFFICE HOURS: Are held on Zoom from 12-3PM on Wednesdays.
 See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
 
-INTERACTIVE: Please use salloc instead of srun for interactive
-sessions.  The structure of the salloc command is slightly different.
-See our updated docs for details of how to use salloc:
-
-https://docs.rc.fas.harvard.edu/kb/running-jobs/#Interactive_jobs_and_salloc
-
 HOLYLFS/BOSLFS: Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
 labs on these systems to new storage.
+
+MGHPCC POWER MAINTENANCE: The power maintenance for our Holyoke
+datacenter is slated for August 10th.  Further details will
+be forthcoming.  Please plan accordingly.
 
 
