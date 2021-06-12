@@ -8,6 +8,6 @@ datamover01 /n/boslfs 52403200 4494822763264
 datamover01 /n/tzipermanfs2 -1 39726360576
 boslogin01 /n/kuang_lab -137 22546491392
 boslogin02 /n/kuang_lab -137 22546491392
-boslogin02 /n/boslfs 4448001692472 4494822763264
+boslogin02 /n/boslfs -137 4494822763264
 boslogin03 /n/kuang_lab -137 22546491392
 boslogin04 /n/kuang_lab -137 22546491392
