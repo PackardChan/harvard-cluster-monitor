@@ -16,34 +16,27 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: JULY 12TH 7AM-11AM
+NEXT MAINTENANCE: AUGUST 9TH 6PM - AUGUST 12TH 12PM
 
 https://www.rc.fas.harvard.edu/maintenance
 
-OFFICE HOURS: Are held on Zoom from 12-3PM on Wednesdays.
-See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
-
+!!!!!!!!!!!!!IMPORTANT PLEASE READ!!!!!!!!!!!!!!!!!!!!!!!!!!
 MGHPCC POWER MAINTENANCE: The power maintenance for our Holyoke
-datacenter is slated for August 9th 6PM to August 12 12PM.  For
-more information see:
+datacenter is slated for August 9th 6PM to August 12 12PM. This
+will involve the cancelation of running jobs and the
+inaccessibility of any storage that is hosted at our Holyoke
+datacenter.  In addition we will be terminating jobs at 9AM
+on the 9TH on select partitions to enable us to install new
+bigmem and A100 gpu nodes.  For more information see:
 
 https://www.rc.fas.harvard.edu/events/mghpcc-power-shutdown-2021/
 
-USER POLL: Thank you for all your valuable feedback in our 2021 
-User Poll.  This is very useful for our future planning for
-new cluster features.  It also helps us know how we are doing.
-As always feel free to send us feedback at rchelp@rc.fas.harvard.edu
-We are always happy to hear from you about how we are doing or
-what new features you would like to see.
+OFFICE HOURS: Are held on Zoom from 12-3PM on Wednesdays.
+See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
 
 HOLYLFS/BOSLFS: Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
 We will be in contact with labs when we are ready to move
 labs on these systems to new storage.
-
-SUMMER VACATION: Harvard has designated the following
-additional days off beyond the usual calendar.  June 18th, 
-and July 2nd.  FASRC will be closed on those days.  
-Enjoy your summer!
 
 
