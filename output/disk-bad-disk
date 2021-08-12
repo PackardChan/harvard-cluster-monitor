@@ -3,11 +3,11 @@
 /n/data2_kzm | datamover01
 /n/data3_kzm | datamover01
 /n/data_kzm | datamover01
-/n/holylfs02 | boslogin04
-/n/holylfs04 | datamover01 boslogin04
-/n/holylfs | boslogin04
-/n/holyscratch01 | boslogin04
-/n/holystore01 | boslogin04
-/n/kuangdss01 | boslogin04
+/n/holylfs02 | boslogin01 boslogin02 boslogin03 boslogin04
+/n/holylfs04 | datamover01 boslogin01 boslogin02 boslogin03 boslogin04
+/n/holylfs | boslogin01 boslogin02 boslogin03 boslogin04
+/n/holyscratch01 | boslogin01 boslogin02 boslogin03 boslogin04
+/n/holystore01 | boslogin01 boslogin02 boslogin03 boslogin04
+/n/kuangdss01 | boslogin01 boslogin02 boslogin03 boslogin04
 /n/kuang_lab | datamover01
 /n/tzipermanfs2 | datamover01
