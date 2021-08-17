@@ -16,21 +16,9 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 + Check our training schedule at: https://www.rc.fas.harvard.edu/upcoming-training/      +
 +----------------------------------------------------------------------------------------+
 
-NEXT MAINTENANCE: AUGUST 9TH 6PM - AUGUST 12TH 5PM
+NEXT MAINTENANCE: OCTOBER 4TH 7AM-11AM
 
 https://www.rc.fas.harvard.edu/maintenance
-
-!!!!!!!!!!!!!IMPORTANT PLEASE READ!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!!!!!!!MGHPCC MAINTENANCE UNDERWAY!!!!!!!!!!!!!!!!!!!!
-MGHPCC POWER MAINTENANCE: The power maintenance for our Holyoke
-datacenter is slated for August 9th 6PM to August 12 5PM. This
-will involve the cancelation of running jobs and the
-inaccessibility of any storage that is hosted at our Holyoke
-datacenter.  In addition we will be terminating jobs at 9AM
-on the 9TH on select partitions to enable us to install new
-bigmem and A100 gpu nodes.  For more information see:
-
-https://www.rc.fas.harvard.edu/events/mghpcc-power-shutdown-2021/
 
 OFFICE HOURS: Are held on Zoom from 12-3PM on Wednesdays.
 See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
