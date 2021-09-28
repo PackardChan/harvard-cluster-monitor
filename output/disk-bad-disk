@@ -1,10 +1,10 @@
-/n/boslfs02 | datamover01
+/n/boslfs02 | holylogin03 datamover01
 /n/boslfs | boslogin03
 /n/data2_kzm | datamover01
 /n/data3_kzm | datamover01
 /n/data_kzm | datamover01
-/n/holylfs04 | datamover01
+/n/holylfs04 | ost datamover01
 /n/holylfs | boslogin01 holylogin03
-/n/kuangdss01 | datamover01
-/n/kuang_lab | boslogin01 boslogin03 boslogin04 holylogin01 holylogin02 holylogin03 holylogin04 datamover01
-/n/tzipermanfs2 | boslogin01 boslogin04 holylogin01 holylogin02 holylogin03 holylogin04 datamover01
+/n/holyscratch01 | ost boslogin01
+/n/kuang_lab | datamover01
+/n/tzipermanfs2 | datamover01
