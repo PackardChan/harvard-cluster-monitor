@@ -1,5 +1,4 @@
-boslogin01  | /n/holyscratch01 /n/holylfs
+boslogin01  | /n/holylfs02
 boslogin03  | /n/boslfs
 datamover01 | /n/kuang_lab /n/holylfs04 /n/data_kzm /n/data2_kzm /n/data3_kzm /n/boslfs02 /n/tzipermanfs2
-holylogin03 | /n/holylfs /n/boslfs02
-ost         | /n/holyscratch01 /n/holylfs04
+holylogin03 | /n/holylfs
