@@ -1,3 +1,7 @@
+boslogin01  | /n/boslfs
+boslogin02  | /n/boslfs
+boslogin03  | /n/boslfs
 datamover01 | /n/kuang_lab /n/kuang_lab /n/holylfs04 /n/holylfs04 /n/kuangdss01 /n/kuangdss01 /n/data_kzm /n/data_kzm /n/data2_kzm /n/data2_kzm /n/data3_kzm /n/data3_kzm /n/holylfs /n/boslfs02 /n/boslfs02 /n/boslfs /n/tzipermanfs2 /n/tzipermanfs2
-holylogin03 | /n/holystore01 /n/holylfs /n/boslfs
-holylogin04 | /n/holylfs /n/tzipermanfs2
+holylogin01 | /n/boslfs
+holylogin03 | /n/holystore01 /n/boslfs
+holylogin04 | /n/tzipermanfs2
