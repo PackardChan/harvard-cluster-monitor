@@ -1,6 +1,4 @@
-boslogin03 /n/data_kzm -1 3221225472
-boslogin03 /n/data2_kzm -1 13958643712
-boslogin03 /n/data3_kzm -1 8589934592
+ost /n/holystore01 32 33 48 49 53
 datamover01 /n/kuang_lab -1 22546491392
 datamover01 /n/holylfs04 52403200 5214334382144
 datamover01 /n/data_kzm -1 3221225472

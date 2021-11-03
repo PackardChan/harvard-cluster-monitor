@@ -1,7 +1,8 @@
 /n/boslfs02 | datamover01
-/n/data2_kzm | boslogin03 datamover01
-/n/data3_kzm | boslogin03 datamover01
-/n/data_kzm | boslogin03 datamover01
+/n/data2_kzm | datamover01
+/n/data3_kzm | datamover01
+/n/data_kzm | datamover01
 /n/holylfs04 | datamover01
+/n/holystore01 | ost
 /n/kuang_lab | datamover01
 /n/tzipermanfs2 | datamover01
