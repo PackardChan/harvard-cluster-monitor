@@ -2,7 +2,7 @@ boslogin01  | /n/kuang_lab
 boslogin02  | /n/kuang_lab /n/kuang_lab
 boslogin03  | /n/kuang_lab /n/kuang_lab /n/tzipermanfs2 /n/tzipermanfs2
 boslogin04  | /n/kuang_lab /n/kuang_lab
-datamover01 | /n/kuang_lab /n/holylfs04 /n/kuangdss01 /n/data_kzm /n/data2_kzm /n/data3_kzm /n/boslfs02 /n/tzipermanfs2
+datamover01 | /n/kuang_lab /n/holylfs04 /n/kuangdss01 /n/data_kzm /n/data2_kzm /n/data3_kzm /n/boslfs02 /n/tzipermanfs2 /n/holyscratch01 /n/kuang_lab /n/holylfs04 /n/data_kzm /n/data2_kzm /n/data3_kzm /n/boslfs02 /n/tzipermanfs2
 holylogin01 | /n/kuang_lab /n/kuang_lab
 holylogin03 | /n/kuang_lab /n/kuang_lab /n/tzipermanfs2 /n/tzipermanfs2
 holylogin04 | /n/kuang_lab /n/kuang_lab
