@@ -1,9 +1,9 @@
 File                                          Size  Used Avail Use% Type    Drawbacks
 /n/home05/pchan                                95G   33G   63G  35% nfs     100G per user
-/n/holyscratch01/kuang_lab                    4.0P  2.1P  1.8P  54% lustre  group readable, 50T per group, 90 day retention
+/n/holyscratch01/kuang_lab                    4.0P  2.1P  1.7P  56% lustre  group readable, 50T per group, 90 day retention
 /n/kuang_lab                                   21T   11T   11T  50% nfs      
-/n/holylfs04/LABS/kuang_lab/Users             4.8P  3.5P  1.3P  75% lustre  500T for kuang_lab
-/n/kuangdss01/users                           524T  502T   23T  96% nfs     group readable, for kuang_lab
+/n/holylfs04/LABS/kuang_lab/Users             4.8P  3.3P  1.5P  70% lustre  500T for kuang_lab
+/n/kuangdss01/users                           524T  511T   14T  98% nfs     group readable, for kuang_lab
 /n/data_kzm                                   3.0T  2.6T  473G  85% nfs     for kuang_lab
 /n/data2_kzm                                   13T   12T  2.0T  85% nfs     for kuang_lab
 /n/data3_kzm                                  8.0T  5.3T  2.8T  66% nfs     for kuang_lab
@@ -11,8 +11,8 @@ File                                          Size  Used Avail Use% Type    Draw
 Disk quotas for grp kuang_lab (gid 34720):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
 /n/holyscratch01
-                  77.8T    100T    100T       -  613078  104857600 104857600       -
-   /n/holylfs04  173.5T    200T    200T       - 8127580  119537664 119537664       -
+                 78.32T    100T    100T       -  593927  104857600 104857600       -
+   /n/holylfs04  172.5T    200T    200T       - 8109308  119537664 119537664       -
 Disk quotas for grp huce (gid 10047):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
- /n/holystore01  591.2G      1T      1T       -   57886  1048576       0       -
+ /n/holystore01  591.2G      1T      1T       -   57888  1048576       0       -
