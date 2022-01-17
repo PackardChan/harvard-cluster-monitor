@@ -1,8 +1,8 @@
-boslogin01 2022-01-05 13:50:43 load average 1, 5, 15 min: 0.53 0.43 0.39 3/885 189072
-boslogin02 2022-01-05 13:59:50 load average 1, 5, 15 min: 0.05 0.08 0.22 1/912 55285
-boslogin03 2022-01-05 14:00:03 load average 1, 5, 15 min: 0.24 0.48 0.70 2/915 215591
-boslogin04 2022-01-05 14:00:08 load average 1, 5, 15 min: 0.48 0.42 0.39 1/758 110259
-holylogin01 2022-01-05 14:01:53 load average 1, 5, 15 min: 0.06 0.19 0.31 1/948 203307
-holylogin02 2022-01-05 14:02:11 load average 1, 5, 15 min: 0.77 0.61 0.68 1/926 236003
-holylogin03 2022-01-05 14:02:10 load average 1, 5, 15 min: 0.87 1.07 1.17 1/831 103247
-holylogin04 2022-01-05 14:02:27 load average 1, 5, 15 min: 0.12 0.16 0.33 2/872 41302
+boslogin01 2022-01-05 13:50:43 load average 1, 5, 15 min: 1.33 1.23 1.06 3/871 210794
+boslogin02 2022-01-05 13:59:50 load average 1, 5, 15 min: 0.75 0.74 0.41 2/887 64056
+boslogin03 2022-01-05 14:00:03 load average 1, 5, 15 min: 0.50 0.37 0.71 2/899 185906
+boslogin04 2022-01-05 14:00:08 load average 1, 5, 15 min: 0.31 0.27 0.34 2/755 120491
+holylogin01 2022-01-05 14:01:53 load average 1, 5, 15 min: 0.16 0.20 0.28 1/935 219060
+holylogin02 2022-01-05 14:02:11 load average 1, 5, 15 min: 0.71 0.84 0.78 1/916 11147
+holylogin03 2022-01-05 14:02:10 load average 1, 5, 15 min: 1.13 1.27 1.25 1/835 124994
+holylogin04 2022-01-05 14:02:27 load average 1, 5, 15 min: 0.23 0.19 0.32 2/871 69739
