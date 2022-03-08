@@ -18,10 +18,21 @@ hosted by Research Computing at HU's Faculty of Arts and Sciences.
 
 https://www.rc.fas.harvard.edu/maintenance
 
-NEXT MAINTENANCE: MARCH 7TH 7AM-11AM
+NEXT MAINTENANCE: APRIL 4TH 7AM-11AM
 
 OFFICE HOURS: Are held on Zoom from 12-3PM on Wednesdays.
 See https://www.rc.fas.harvard.edu/training/office-hours/ for details.
+
+MGHPCC POWER MAINTENANCE: Our annual power maintenance is
+slated to run May 23rd 6pm - May 26th 12pm.  All cluster
+jobs will be terminated and the cluster will be
+unavailable for the duration. Plan accordingly
+and stay tuned for more details.
+
+SLURM JOBID ROLLOVER: We are approaching the maximum
+JOBID of 67043328 for slurm at which point the JOBID 
+will rollover to 1.  This should have no impact and 
+should occur in the next month or so.
 
 HOLYLFS/BOSLFS: Please only use holylfs/boslfs for
 long term storage and use holyscratch01 for production work.
