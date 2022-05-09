@@ -1,18 +1,18 @@
 File                                          Size  Used Avail Use% Type    Drawbacks
 /n/home05/pchan                                95G   29G   67G  30% nfs     100G per user
-/n/holyscratch01/kuang_lab                    4.0P  1.9P  2.0P  50% lustre  group readable, 50T per group, 90 day retention
+/n/holyscratch01/kuang_lab                    4.0P  2.0P  1.9P  52% lustre  group readable, 50T per group, 90 day retention
 /n/kuang_lab                                   21T   11T   11T  50% nfs      
-/n/holylfs04/LABS/kuang_lab/Users             4.8P  3.5P  1.3P  74% lustre  500T for kuang_lab
-/n/kuangdss01/users                           524T  485T   40T  93% nfs     group readable, for kuang_lab
+/n/holylfs04/LABS/kuang_lab/Users             4.8P  3.5P  1.3P  75% lustre  500T for kuang_lab
+/n/kuangdss01/users                           524T  503T   22T  96% nfs     group readable, for kuang_lab
 /n/data_kzm                                   3.0T  2.6T  473G  85% nfs     for kuang_lab
 /n/data2_kzm                                   13T   12T  2.0T  85% nfs     for kuang_lab
 /n/data3_kzm                                  8.0T  5.3T  2.8T  66% nfs     for kuang_lab
-/n/holystore01/INTERNAL_REPOS/CLIMATE_MODELS  5.3P  3.7P  1.4P  73% lustre  group readable, 1T for sharing within huce
+/n/holystore01/INTERNAL_REPOS/CLIMATE_MODELS  5.3P  3.6P  1.5P  72% lustre  group readable, 1T for sharing within huce
 Disk quotas for grp kuang_lab (gid 34720):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
 /n/holyscratch01
-                 24.68T    100T    100T       -  533130  104857600 104857600       -
-   /n/holylfs04  196.4T    200T    200T       - 6802017  119537664 119537664       -
+                  24.5T    100T    100T       -  541983  104857600 104857600       -
+   /n/holylfs04  200.5T    250T    250T       - 6864684  149946368 149946368       -
 Disk quotas for grp huce (gid 10047):
      Filesystem    used   quota   limit   grace   files   quota   limit   grace
  /n/holystore01   1.92T      2T      2T       -   61047  1782579 1782579       -
